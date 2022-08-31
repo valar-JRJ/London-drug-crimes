@@ -1,4 +1,5 @@
 # Spatial Analysis of Drug Crimes in London
+![caption](fig/gwr.png "Geo-weighted regression")
 ## Project description
 This project studied how the spatial distribution of drug crime is associated with violent and sexual crime, pub density, and several socioeconomic factors in London. These socioeconomic factors (income deprivation, crime deprivation, living environment deprivation) are selected from the IMD index. Kernel density estimation is used to compare the distribution of drug crimes, violent and sexual crimes, and pub locations.  
 
